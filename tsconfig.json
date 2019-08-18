@@ -17,7 +17,15 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "angular-coordinates": [
+        "dist/angular-coordinates"
+      ],
+      "angular-coordinates/*": [
+        "dist/angular-coordinates/*"
+      ]
+    }
   },
   "angularCompilerOptions": {
     "fullTemplateTypeCheck": true,

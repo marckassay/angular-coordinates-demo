@@ -1,0 +1,3 @@
+[submodule "projects/angular-coordinates"]
+	path = projects/angular-coordinates
+	url = https://github.com/marckassay/angular-coordinates.git
